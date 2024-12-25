@@ -1,0 +1,43 @@
+0 - Mon Dec 25 15:54:37 2023 - Test server is started.
+1 - Mon Dec 25 15:54:37 2023 - A new data.csv file has been created.
+2 - Mon Dec 25 15:54:40 2023 - Data insertion from sensor 132 succeeded.
+3 - Mon Dec 25 15:54:40 2023 - Sensor node 15 has opened a new connection.
+4 - Mon Dec 25 15:54:40 2023 - Sensor node 37 has opened a new connection.
+5 - Mon Dec 25 15:54:40 2023 - Sensor node 142 has opened a new connection.
+6 - Mon Dec 25 15:54:40 2023 - Sensor node 132 has opened a new connection.
+7 - Mon Dec 25 15:54:40 2023 - Data insertion from sensor 142 succeeded.
+8 - Mon Dec 25 15:54:40 2023 - Data insertion from sensor 15 succeeded.
+9 - Mon Dec 25 15:54:40 2023 - Data insertion from sensor 37 succeeded.
+10 - Mon Dec 25 15:54:40 2023 - Sensor node 21 has opened a new connection.
+11 - Mon Dec 25 15:54:40 2023 - Data insertion from sensor 21 succeeded.
+12 - Mon Dec 25 15:54:41 2023 - Data insertion from sensor 15 succeeded.
+13 - Mon Dec 25 15:54:42 2023 - Data insertion from sensor 37 succeeded.
+14 - Mon Dec 25 15:54:42 2023 - Data insertion from sensor 15 succeeded.
+15 - Mon Dec 25 15:54:43 2023 - Data insertion from sensor 132 succeeded.
+16 - Mon Dec 25 15:54:43 2023 - Data insertion from sensor 15 succeeded.
+17 - Mon Dec 25 15:54:43 2023 - Data insertion from sensor 21 succeeded.
+18 - Mon Dec 25 15:54:43 2023 - Data insertion from sensor 142 succeeded.
+19 - Mon Dec 25 15:54:44 2023 - Data insertion from sensor 15 succeeded.
+20 - Mon Dec 25 15:54:44 2023 - Data insertion from sensor 37 succeeded.
+21 - Mon Dec 25 15:54:45 2023 - Data insertion from sensor 15 succeeded.
+22 - Mon Dec 25 15:54:46 2023 - Data insertion from sensor 142 succeeded.
+23 - Mon Dec 25 15:54:46 2023 - Data insertion from sensor 132 succeeded.
+24 - Mon Dec 25 15:54:46 2023 - Data insertion from sensor 21 succeeded.
+25 - Mon Dec 25 15:54:46 2023 - Data insertion from sensor 37 succeeded.
+26 - Mon Dec 25 15:54:46 2023 - Data insertion from sensor 15 succeeded.
+27 - Mon Dec 25 15:54:47 2023 - Data insertion from sensor 15 succeeded.
+28 - Mon Dec 25 15:54:48 2023 - Data insertion from sensor 37 succeeded.
+29 - Mon Dec 25 15:54:48 2023 - Data insertion from sensor 15 succeeded.
+30 - Mon Dec 25 15:54:49 2023 - Data insertion from sensor 132 succeeded.
+31 - Mon Dec 25 15:54:49 2023 - Data insertion from sensor 142 succeeded.
+32 - Mon Dec 25 15:54:49 2023 - Data insertion from sensor 21 succeeded.
+33 - Mon Dec 25 15:54:49 2023 - Data insertion from sensor 15 succeeded.
+34 - Mon Dec 25 15:54:50 2023 - Data insertion from sensor 37 succeeded.
+35 - Mon Dec 25 15:54:50 2023 - Data insertion from sensor 15 succeeded.
+36 - Mon Dec 25 15:54:51 2023 - Close connection with id: 15
+37 - Mon Dec 25 15:54:51 2023 - Close connection with id: 142
+38 - Mon Dec 25 15:54:51 2023 - Close connection with id: 21
+39 - Mon Dec 25 15:54:51 2023 - Close connection with id: 37
+40 - Mon Dec 25 15:54:51 2023 - Close connection with id: 132
+41 - Mon Dec 25 15:54:51 2023 - Test server is shutting down.
+42 - Mon Dec 25 15:54:51 2023 - The data.csv file has been closed.
